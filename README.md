@@ -7,4 +7,4 @@ cho SHOP bán hàng Online, Facebook, Livestream, Tiktok, Shopify
 Cấu hình:
 Admin panel > WooCommerce > Cài đặt > chọn tab Thanh toán > bật > Cài đặt:
 
-![Payment cấu hình](https://github.com/magepow/payme/blob/master/media/payme.png)
+![Payment cấu hình](https://github.com/davidduong90/payme/blob/master/media/payme.png)
